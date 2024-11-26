@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Meu nome é João Pedro!</h1><br>
 
-- 🔭 Atualmente trabalho como Estagiário de TI em criação de dashboards e Front End com HTML/CSS e Grafana.
+- 🔭 Atualmente atuo como Estagiário de TI, focado na criação de dashboards e no desenvolvimento Front-End utilizando HTML, CSS e Grafana.
 - 🌱 Atualmente estudando ADS, com foco em me aprofundar em HTML, CSS e JS.
 - 📫 Contate-me no e-mail: joao.ti2004@gmail.com
 - 😄 Pronouns: ele/dele;
