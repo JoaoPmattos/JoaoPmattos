@@ -1,10 +1,17 @@
-<h1 align="center">Olá! Meu nome é João Pedro!</h1><br>
+<h1 align="center">👋 Olá! Meu nome é João Pedro!<br>👋 Hello! My name is João Pedro!</h1><br>
 
-- 🔭 Atualmente atuo como Estagiário de TI, focado na criação de dashboards e no desenvolvimento Front-End utilizando HTML, CSS e Grafana.
-- 🌱 Atualmente estudando ADS, com foco em me aprofundar em HTML, CSS e JS.
-- 📫 Contate-me no e-mail: joao.ti2004@gmail.com
-- 😄 Pronouns: ele/dele;
-- ⚡ Fun fact: Consigo mapear qualquer ambiente que já estive.
+- 🔭 Atualmente, atuo como **Estagiário de TI**, com foco na criação de dashboards e no desenvolvimento Front-End utilizando **HTML, CSS e Grafana**.  
+  🔭 Currently working as an **IT Intern**, focused on building dashboards and front-end development using **HTML, CSS, and Grafana**.
+
+- 🌱 Estudando **Análise e Desenvolvimento de Sistemas**, com ênfase em aprofundar meus conhecimentos em **HTML, CSS e JavaScript**.  
+  🌱 Studying **Systems Analysis and Development**, aiming to deepen my skills in **HTML, CSS, and JavaScript**.
+
+- 📫 Entre em contato comigo pelo e-mail: **joaopedro272004@hotmail.com**  
+  📫 You can reach me at: **joaopedro272004@hotmail.com**
+
+- ⚡ Curiosidade: Tenho facilidade em memorizar espaços físicos com precisão visual.  
+  ⚡ Fun fact: I have a strong visual memory and can mentally map physical spaces with ease.
+
 
 <div align="center"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
