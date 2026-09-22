@@ -1,16 +1,16 @@
 <h1 align="center">👋 Olá! Meu nome é João Pedro!<br>👋 Hello! My name is João Pedro!</h1><br>
 
-- 🔭 Atualmente, atuo como **Estagiário de TI**, com foco na criação de dashboards e no desenvolvimento Front-End utilizando **HTML, CSS e Grafana**.  
-  🔭 Currently working as an **IT Intern**, focused on building dashboards and front-end development using **HTML, CSS, and Grafana**.
+- 🔭 Atualmente, atuo como **Analista de Desenvolvimento Jr**, com foco na criação de dashboards e no desenvolvimento Front-End utilizando **HTML, CSS, JavaScript e Grafana**.  
+  🔭 *Currently working as a **Junior Development Analyst**, focused on building dashboards and front-end development using **HTML, CSS, JavaScript, and Grafana**.*
 
 - 🌱 Estudando **Análise e Desenvolvimento de Sistemas**, com ênfase em aprofundar meus conhecimentos em **HTML, CSS e JavaScript**.  
-  🌱 Studying **Systems Analysis and Development**, aiming to deepen my skills in **HTML, CSS, and JavaScript**.
+  🌱 *Studying **Systems Analysis and Development**, aiming to deepen my skills in **HTML, CSS, and JavaScript**.*
 
-- 📫 Entre em contato comigo pelo e-mail: **joaopedro272004@hotmail.com**  
-  📫 You can reach me at: **joaopedro272004@hotmail.com**
+- 📫 Entre em contato comigo pelo e-mail: joaopedro272004@hotmail.com  
+  📫 *You can reach me at: joaopedro272004@hotmail.com*
 
 - ⚡ Curiosidade: Tenho facilidade em memorizar espaços físicos com precisão visual.  
-  ⚡ Fun fact: I have a strong visual memory and can mentally map physical spaces with ease.
+  ⚡ *Fun fact: I have a strong visual memory and can mentally map physical spaces with ease.*
 
 
 <div align="center"><br>
